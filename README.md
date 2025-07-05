@@ -1,5 +1,5 @@
 
-<h1 align="center">Advanced Medical System [ESX]</h1>
+<h1 align="center">Kane Painkiller</h1>
 
 <p align="center">
   <strong>สคริปต์ระบบการแพทย์ขั้นสูงสำหรับ ESX Framework ที่มาพร้อมระบบ Painkiller & AED ที่ปลอดภัยและปรับแต่งง่าย</strong>
