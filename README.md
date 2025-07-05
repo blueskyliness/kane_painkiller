@@ -7,7 +7,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Framework-ESX-red?style=for-the-badge&logo=lua" alt="Framework: ESX">
-    <img src="https://img.shields.io/badge/Version-1.1.1-blue?style=for-the-badge" alt="Version">
+    <img src="https://img.shields.io/badge/Version-0.0.1-blue?style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge" alt="Status: Stable">
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT">
 </p>
